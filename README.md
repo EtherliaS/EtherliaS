@@ -1,4 +1,4 @@
-C# main
+C# main language / also can 
 C++, C, Python, JS, TS 
 - 📫 How to reach me 
 {
