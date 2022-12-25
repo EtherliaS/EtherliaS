@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @EtherliaS and i have no ideas how to redesign this uwu
-- 👀 I’m interested in counting 1000-7
-- 🌱 I’m currently learning C#, C++, C, Python
-- 💞️ I’m looking to collaborate on Discord bots & osu useful(less) progs & etc
+C# main
+C++, C, Python, JS, TS 
 - 📫 How to reach me 
 {
   tg: @EtherliaS
