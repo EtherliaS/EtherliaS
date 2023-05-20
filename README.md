@@ -1,6 +1,5 @@
-C# main language / also can 
-C++, C, Python, JS, TS 
-- 📫 How to reach me 
+C# main / also can C++, Python
+📫 How to reach me 
 {
   tg: @EtherliaS
   vk: @m.lobashov
