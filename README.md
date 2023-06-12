@@ -1,8 +1,8 @@
 C# main / also can C++, Python
 📫 How to reach me 
 {
-  tg: @EtherliaS
-  vk: @m.lobashov
+  telegram: @EtherliaS
+  discord: etherlias
   twitter: @lias_osu
 }
 
