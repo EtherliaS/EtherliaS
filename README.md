@@ -1,5 +1,4 @@
-C# main / also can C++, Python
-📫 How to reach me 
+C# dev
 {
   telegram: @EtherliaS
   discord: etherlias
