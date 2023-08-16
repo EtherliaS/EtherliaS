@@ -1,9 +1,9 @@
-C# dev
-\{
-\  telegram: @EtherliaS
-\  discord: etherlias
-\  twitter: @lias_osu
-\}
+C# dev\
+{\
+  telegram: @EtherliaS\
+  discord: etherlias\
+  twitter: @lias_osu\
+}
 
 <!---
 EtherliaS/EtherliaS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
