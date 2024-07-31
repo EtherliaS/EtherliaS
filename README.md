@@ -2,7 +2,6 @@ C# dev\
 {\
   telegram: @EtherliaS\
   discord: etherlias\
-  twitter: @lias_osu\
 }
 
 <!---
