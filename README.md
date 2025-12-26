@@ -1,4 +1,4 @@
-C# dev
+C# / Python dev
 * telegram: [@EtherliaS](https://t.me/EtherliaS)
 * discord: etherlias
 
